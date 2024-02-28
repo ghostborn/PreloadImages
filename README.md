@@ -1,4 +1,4 @@
-# # PreloadImages
+# PreloadImages
 Preload images and callback when they are all ready
 
 # Usage
